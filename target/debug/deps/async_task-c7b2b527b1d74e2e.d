@@ -1,0 +1,11 @@
+/Users/itto-mac/development/Rust/guess_word/target/debug/deps/async_task-c7b2b527b1d74e2e.rmeta: /Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/lib.rs /Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/header.rs /Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/raw.rs /Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/runnable.rs /Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/state.rs /Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/task.rs /Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/utils.rs
+
+/Users/itto-mac/development/Rust/guess_word/target/debug/deps/async_task-c7b2b527b1d74e2e.d: /Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/lib.rs /Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/header.rs /Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/raw.rs /Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/runnable.rs /Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/state.rs /Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/task.rs /Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/utils.rs
+
+/Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/lib.rs:
+/Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/header.rs:
+/Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/raw.rs:
+/Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/runnable.rs:
+/Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/state.rs:
+/Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/task.rs:
+/Users/itto-mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-task-4.4.0/src/utils.rs:

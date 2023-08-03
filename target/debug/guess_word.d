@@ -1,0 +1,1 @@
+/Users/itto-mac/development/Rust/guess_word/target/debug/guess_word: /Users/itto-mac/development/Rust/guess_word/src/lib.rs /Users/itto-mac/development/Rust/guess_word/src/main.rs /Users/itto-mac/development/Rust/guess_word/src/words.txt
